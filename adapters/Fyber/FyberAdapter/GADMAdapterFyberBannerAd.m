@@ -15,7 +15,7 @@
 #import "GADMAdapterFyberBannerAd.h"
 
 #import <IASDKCore/IASDKCore.h>
-#import <IASDKMRAID/IASDKMRAID.h>
+#import <IASDKCore/IASDKMRAID.h>
 
 #import <stdatomic.h>
 
