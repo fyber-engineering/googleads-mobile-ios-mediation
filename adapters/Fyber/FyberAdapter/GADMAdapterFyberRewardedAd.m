@@ -15,7 +15,7 @@
 #import <CoreLocation/CoreLocation.h>
 #import <IASDKCore/IASDKCore.h>
 #import <IASDKCore/IASDKMRAID.h>
-#import <IASDKVideo/IASDKVideo.h>
+#import <IASDKCore/IASDKVideo.h>
 
 #include <stdatomic.h>
 

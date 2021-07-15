@@ -16,7 +16,7 @@
 
 #import <IASDKCore/IASDKCore.h>
 #import <IASDKCore/IASDKMRAID.h>
-#import <IASDKVideo/IASDKVideo.h>
+#import <IASDKCore/IASDKVideo.h>
 
 #import <stdatomic.h>
 
